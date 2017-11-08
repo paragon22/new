@@ -6,4 +6,6 @@ Kheer
 chicken
 burrito
 
+rajmachawal
+kadichawal
 thanks
